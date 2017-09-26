@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+# basic options
+title: Douglas Herron
+author: Douglas Herron
+email: douglasherron16@gmail.com
+description: A work in progress resume site
+twitter_username: N/A
+github_username:  Douglas Herron
+
+# Build settings
+markdown: kramdown
+theme: minima
