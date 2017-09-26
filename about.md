@@ -4,4 +4,4 @@ title: About
 
 #This is a test about page
 
-Go back to the [Home Page](/douglasherron.github.io/README.md)
+Go back to the [Home Page](README.md)
