@@ -5,3 +5,4 @@ how to do all this correctly and efficiently.
 
 I currently have an [About](about.md) page you can find linked there.
 I also have a [Contact](contact.md) page where you can find my email and my github.
+Testing CSS page. [Styles](styles.html)
